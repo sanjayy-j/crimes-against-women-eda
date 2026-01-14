@@ -1,6 +1,13 @@
 # Crimes Against Women in India – Exploratory Data Analysis (EDA)
 
-This repository contains an Exploratory Data Analysis (EDA) of crimes against women in India, conducted as part of the TAM-VIT recruitment task. The objective is to analyze state-wise crime patterns, identify dominant crime types, and cluster states based on crime statistics.
+> A real-world exploratory analysis of public safety data using Python and data visualization techniques.
+
+This project presents a structured Exploratory Data Analysis (EDA) of crimes against women in India using officially reported state-wise crime data. The analysis focuses on uncovering patterns, trends, and regional disparities across different categories of gender-based violence.
+
+The objective of this project is to demonstrate a real-world data analysis workflow, including data cleaning, aggregation, visualization, and interpretation of insights. By examining crime distributions across states and crime types, the project highlights how data-driven analysis can support awareness, policy discussion, and targeted interventions in public safety and social impact domains.
+
+This repository is designed to be domain-agnostic and reusable, showcasing practical data analysis skills applicable to large-scale social, governance, and public-sector datasets.
+
 
 ---
 
